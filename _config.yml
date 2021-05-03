@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: just-the-docs
 
 plugins:
   - jekyll-sitemap

@@ -5,6 +5,8 @@ gem "kramdown-parser-gfm", "~> 1.1"
 
 gem "jekyll-theme-architect", "~> 0.1.1"
 
+gem "just-the-docs"
+
 group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4"
 end
